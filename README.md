@@ -1,1 +1,1 @@
-# Handwritten-Digits-Clasification-CNN
+# Handwritten-Digits-Classification-CNN
